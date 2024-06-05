@@ -32,14 +32,13 @@ I.	Python: Python served as the primary programming language for developing the 
 <h2>Information Screen</h2>
 <img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/bfde39d7-e9b3-47ea-b2f9-9e9c1b27bfdf'>
 <h2>Edit Box</h2>
-<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/5c6adca6-9e23-405e-afbd-9524af170a2e'>
-<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/d45e958c-33b6-4217-a6df-a3eebc9c8a54'>
-<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/66db6f07-3e60-4ca1-98ad-d3b150473db8'>
-<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/b2a829e9-e87e-4927-894b-a87ed1d059f5
-'>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/fdf4417a-4341-4f5c-8113-b8ae414e3d9c'>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/543d58e4-3917-4a99-9d88-75f207cd849e'>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/ff22e0f4-9221-4e15-8e32-ae180099a18a'>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/356838d3-e98f-4437-ae1d-69d028ad0eb7'>
 <h2>Terminal</h2>
 <img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/747afaf0-efe7-4206-8612-1dd67971cdab'>
 <h2>Table View</h2>
 <img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/f40af848-9179-403b-93af-7469c7618813'>
 <h2>Data Flow</h2>
-<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/816a46a8-57a3-4c5b-ab5f-501e73d49387'>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/812941aa-e9b9-4c74-8c20-42f3a3bdfea3'>
