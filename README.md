@@ -21,4 +21,25 @@ I.	Python: Python served as the primary programming language for developing the 
 </p><p>VIII.	sqlite3, pyodbc, psycopg2: These libraries were utilized for database connectivity within the Data Cleaner software. They facilitated interactions with SQLite, ODBC-compliant databases, and PostgreSQL databases, allowing for efficient data storage and retrieval.
 </p><p>IX.	re (Regular Expressions): The re library was employed for pattern matching and text processing tasks within the Data Cleaner software. It provided functionalities for searching, extracting, and manipulating text data based on specified patterns.
 </p>
-![image](https://github.com/Kazuto335/DataCleaner/assets/99754294/247e26cb-1f31-43b4-b324-3ca7b0824d83)
+
+<h3>Make sure install those modules</h3>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/247e26cb-1f31-43b4-b324-3ca7b0824d83'>
+
+<h1>Final Product</h1>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/3415b44a-befc-4c43-8049-43b7335e24ce'>
+<h2>Welcome Screen</h2>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/33ec49d5-eeb6-4c3a-9cd9-c6fc33b5cd35'>
+<h2>Information Screen</h2>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/bfde39d7-e9b3-47ea-b2f9-9e9c1b27bfdf'>
+<h2>Edit Box</h2>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/5c6adca6-9e23-405e-afbd-9524af170a2e'>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/d45e958c-33b6-4217-a6df-a3eebc9c8a54'>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/66db6f07-3e60-4ca1-98ad-d3b150473db8'>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/b2a829e9-e87e-4927-894b-a87ed1d059f5
+'>
+<h2>Terminal</h2>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/747afaf0-efe7-4206-8612-1dd67971cdab'>
+<h2>Table View</h2>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/f40af848-9179-403b-93af-7469c7618813'>
+<h2>Data Flow</h2>
+<img src='https://github.com/Kazuto335/DataCleaner/assets/99754294/816a46a8-57a3-4c5b-ab5f-501e73d49387'>
